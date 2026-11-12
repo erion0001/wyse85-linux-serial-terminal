@@ -32,9 +32,7 @@ The Linux side **must match** the terminal's serial settings. Other settings suc
 
 ## My notes and photos
 
-I'll add photos of the terminal, the serial adapters and my handwritten setup notes here as I go. The notes aren't a substitute for a verified wiring diagram or manual.
-
-When I have the photo, it'll go under `images/handwritten-notes.jpg` and can be embedded with:
+Some handwritten notes I took while configuring and troubleshooting the WYSE WY-85.
 
 ```markdown
 ![Handwritten WY-85 troubleshooting notes](images/handwritten-notes.jpg)
