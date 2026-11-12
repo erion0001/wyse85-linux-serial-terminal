@@ -34,9 +34,7 @@ The Linux side **must match** the terminal's serial settings. Other settings suc
 
 Some handwritten notes I took while configuring and troubleshooting the WYSE WY-85.
 
-```markdown
 ![Handwritten WY-85 troubleshooting notes](images/handwritten-notes.jpg)
-```
 
 ## References
 
